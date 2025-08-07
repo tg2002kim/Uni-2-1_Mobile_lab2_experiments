@@ -1,6 +1,6 @@
 # Basic Mobile Lab II – AI & ECG Signal Experiments
 
-This repository collects all project and assignment outcomes from the **Basic Mobile Lab II (기초모바일실험)** course at **Dankook University**, Department of Mobile System Engineering, 2nd Semester 2024.  
+This repository collects all project and assignment outcomes from the course Basic Mobile Lab II (기초모바일실험), offered by the Department of Mobile System Engineering, Dankook University, during the second semester of the second year (2024).
 It includes hands-on experiments in both **AI-based data analysis** and **ECG signal acquisition with mobile visualization** using Arduino and MIT App Inventor.
 
 ---
