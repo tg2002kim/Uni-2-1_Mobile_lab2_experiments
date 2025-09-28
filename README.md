@@ -1,4 +1,4 @@
-Dankook University, 2nd Year 2nd Semester (Fall 2024)
+Dankook University, 2nd Year 2nd Semester (Fall 2024) 
 
 # Basic Mobile Lab II – AI & ECG Signal Experiments
 
