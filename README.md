@@ -1,3 +1,5 @@
+Dankook University, 2nd Year 2nd Semester (Fall 2024)
+
 # Basic Mobile Lab II – AI & ECG Signal Experiments
 
 This repository collects all project and assignment outcomes from the course Basic Mobile Lab II (기초모바일실험), offered by the Department of Mobile System Engineering, Dankook University, during the second semester of the second year (2024).
