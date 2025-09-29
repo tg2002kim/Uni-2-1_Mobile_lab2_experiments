@@ -6,7 +6,7 @@ This repository collects all project and assignment outcomes from the course Bas
 It includes hands-on experiments in both **AI-based data analysis** and **ECG signal acquisition with mobile visualization** using Arduino and MIT App Inventor.
 
 ---
-
+ 
 ## Course Overview
 
 - **Course Title**: Basic Mobile Lab II
